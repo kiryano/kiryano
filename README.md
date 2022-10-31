@@ -13,4 +13,10 @@
 </a>
 </p>
 
+<style>
+  p {
+  color: #CDCCFF
+  }
+  </style>
+
 <br/>
