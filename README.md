@@ -1,11 +1,10 @@
 <h3 align="center">
   Hellooooo 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Developer&center=true&width=440&height=45&color=7289da&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Developer%20,Python%20, Web Developer;&center=true&width=440&height=45&color=7289da&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
