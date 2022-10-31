@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello
+  Hellooooo 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -10,8 +10,8 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/nightcore" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/nightcore" alt="roblox server :3"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#7289;
 </a>
 </p>
 
