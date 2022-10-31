@@ -8,8 +8,8 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center" style="color: #8ebf42">
-  <a href="https://discord.gg/nightcore" alt="roblox server :3"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+<p align="center">
+  <a href="https://discord.gg/nightcore" alt="roblox server :3"><img width="32px" src="https://simpleicons.org/icons/discord.svg"/></a>
 </a>
 </p>
 
