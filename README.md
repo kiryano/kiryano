@@ -9,7 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/nightcore" color="#CDCCFF" alt="roblox server :3"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/nightcore" color=0xfffff alt="roblox server :3"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
 </a>
 </p>
 
