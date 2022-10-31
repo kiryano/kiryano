@@ -10,7 +10,9 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/nightcore" alt="roblox server :3"><img width="32px" src="https://simpleicons.org/icons/discord.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/lifesamystery" alt="roblox server :3"><img width="32px" src="https://simpleicons.org/icons/telegram.svg"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://soundcloud.com/marc32145" alt="roblox server :3"><img width="32px" src="https://simpleicons.org/icons/soundcloud.svg"/></a>
 </a>
 </p>
