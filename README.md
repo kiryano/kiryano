@@ -24,7 +24,7 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/kiryano?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/dynamic/json?color=%23000FFFF&label=Soundcloud&prefix=marc&query=idk"/></a>
+    <img alt="soundcloud profile" title="Soundcloud" src="https://custom-icon-badges.demolab.com/badge/-Soundcloud-black?style=for-the-badge&logo=soundcloud&logoColor=orange"/></a>
 
 </p>
 
