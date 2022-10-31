@@ -5,13 +5,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Developer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Developer&center=true&width=440&height=45&color=7289da&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/nightcore" alt="roblox server :3"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#7289;
 </a>
 </p>
 
