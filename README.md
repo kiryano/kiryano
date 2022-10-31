@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @kiryano
-- 👀 I’m interested in python
-- 💞️ Developer at discord.gg/nightcore
-- 📫 How to reach me .. you don't.
+<h3 align="center">
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!---
-kiryano/kiryano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Developer&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://discord.gg/nightcore" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</a>
+</p>
+
+<br/>
