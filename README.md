@@ -24,7 +24,7 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/kiryano?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/dynamic/json?color=%23000FFFF&label=marc&prefix=marc&query=idk&suffix=icon&url=yes)"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/dynamic/json?color=%23000FFFF&label=marc&prefix=marc&query=idk&suffix=icon&url=yes"/></a>
 
 </p>
 
