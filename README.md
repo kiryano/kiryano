@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I%20like%20python 🐍;&center=true&width=440&height=45&color=7289da&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I%20like%20Python 🐍;&center=true&width=440&height=45&color=7289da&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
