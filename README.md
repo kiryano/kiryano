@@ -11,9 +11,8 @@
 <p align="center">
   <a href="https://discord.gg/nightcore" alt="discord server"><img width="32px" src="https://simpleicons.org/icons/discord.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/lifesamystery" alt="telegram"><img width="32px" src="https://simpleicons.org/icons/telegram.svg"/></a>
+  <a href="https://t.me/bananacreampie123" alt="telegram"><img width="32px" src="https://simpleicons.org/icons/telegram.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://soundcloud.com/marc32145" alt="roblox server"><img width="32px" src="https://simpleicons.org/icons/soundcloud.svg"/></a>
 </a>
 </p>
 
