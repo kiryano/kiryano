@@ -9,5 +9,5 @@
 ````bash
 > help --contact
 > github: kiryano
-> mailto:  marc [at] hostile.org
+> mailto:  marc@hostile.org
 ````
