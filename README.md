@@ -3,11 +3,12 @@
 
 ````bash
 > help --info
-> I enjoy python & web develpment
+> I'm a Front-end web developer
 ````
 
 ````bash
 > help --contact
 > github: kiryano
 > mailto:  marc@hostile.org
+> 
 ````
