@@ -3,7 +3,7 @@
 
 ````bash
 > help --info
-> I'm a Front-end web developer at hostile.org
+> I'm a Front-end web developer @ hostile.org
 ````
 
 ````bash
