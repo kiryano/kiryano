@@ -3,12 +3,11 @@
 
 ````bash
 > help --info
-> I'm a Front-end web developer
+> I'm a Front-end web developer at hostile.org
 ````
 
 ````bash
 > help --contact
 > github: kiryano
 > mailto:  marc@hostile.org
-> 
 ````
