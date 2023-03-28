@@ -10,5 +10,5 @@
 ````bash
 > help --contact
 > github: kiryano
-> contact:  marc@hostile.org
+> e-mail:  marc@hostile.org
 ````
