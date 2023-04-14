@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm J!</h3> 
+<h3 align="center">Hi, I'm Marcus!</h3> 
 <a href="https://github.com/kiryano"></a>
 
 ````bash
@@ -10,5 +10,5 @@
 ````bash
 > help --contact
 > github: kiryano
-> e-mail:  j@hostile.org
+> e-mail:  marc@hostile.org
 ````
