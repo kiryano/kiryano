@@ -5,6 +5,7 @@
 > help --info
 > Front-end web developer @ hostile.org
 > Bot Developer @ nightcore.lol
+> Bot Developer @ hostile.org
 ````
 
 ````bash
