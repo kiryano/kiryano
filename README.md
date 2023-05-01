@@ -11,6 +11,6 @@
 ````bash
 > help --contact
 > github: kiryano
-> e-mail:  mrc@hostile.org
+> e-mail:  m@hostile.org
 > telegram: @edaooter
 ````
