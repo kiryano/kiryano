@@ -12,5 +12,5 @@
 > help --contact
 > github: kiryano
 > e-mail:  marc@hostile.org
-> telegram: @edaooter
+> telegram: @marcushostile
 ````
