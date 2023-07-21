@@ -6,7 +6,7 @@
 > Front-end web developer @ hostile.org
 > Roblox Bot Developer @ nightcore.lol
 > OSINT Bot Developer @ hostile.org
-> Cybersec Student
+> Cybersec Student 🧑‍🎓
 ````
 
 ````bash
