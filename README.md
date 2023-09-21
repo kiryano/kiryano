@@ -6,7 +6,7 @@
 > Front-end web developer @ hostile.org
 > Roblox Bot Developer @ nightcore.lol
 > OSINT Bot Developer @ hostile.org
-> Developer / Owner  @ banana.bio
+> Developer / Owner  @ banana.bio 🍌
 > Cybersec Student 🧑‍🎓
 ````
 
