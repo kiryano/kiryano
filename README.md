@@ -4,8 +4,6 @@
 ````bash
 > help --info
 > Front-end web developer @ hostile.org
-> Roblox Bot Developer @ nightcore.lol
-> OSINT Bot Developer @ hostile.org
 > Developer / Owner  @ banana.bio 🍌
 > Cybersec Student 🧑‍🎓
 ````
@@ -14,5 +12,4 @@
 > help --contact
 > github: kiryano
 > e-mail:  marc@hostile.org
-> telegram: @marcushostile
 ````
