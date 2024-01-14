@@ -4,8 +4,7 @@
 ````bash
 > help --info
 > Front-end web developer @ hostile.org
-> Developer / Owner  @ banana.bio 🍌
-> Cybersec Student 🧑‍🎓
+> Developer @ NitrousOSINT
 ````
 
 ````bash
