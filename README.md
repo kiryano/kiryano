@@ -3,8 +3,7 @@
 
 ````bash
 > help --info
-> Front-end web developer @ hostile.org
-> Developer @ NitrousOSINT
+> Front-end web developer @ nitrous
 ````
 
 ````bash
