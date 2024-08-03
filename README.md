@@ -3,11 +3,10 @@
 
 ````bash
 > help --info
-> Front-end web developer @ nitrous-oxi.de
+> Front-end web developer
 ````
 
 ````bash
 > help --contact
 > github: kiryano
-> e-mail:  marc@hostile.org
 ````
